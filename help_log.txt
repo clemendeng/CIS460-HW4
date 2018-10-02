@@ -1,0 +1,1 @@
+Office hours 10/1/18 4:30-5: question on how to set initial camera position (after changing modes), question on how to set vertex positions (issue was you can't do operations on vec4s)
