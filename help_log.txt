@@ -1,1 +1,5 @@
+Homework 4:
 Office hours 10/1/18 4:30-5: question on how to set initial camera position (after changing modes), question on how to set vertex positions (issue was you can't do operations on vec4s)
+
+Homework 5:
+Office hours 10/14/18 1-1:30: question about how to parameterize worley noise with frequency for fractal brownian motion
